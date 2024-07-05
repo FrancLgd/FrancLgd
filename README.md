@@ -9,7 +9,7 @@ Data Scientist avec 4 années d'expériences dans ce domaine, je suis petit à p
 
 <img src="./images/diagramme_architecture.png" alt="Capture d'Écran du Projet 2" style="width: 80%; height: auto;"/>
 
-- **Description** : Mise en place d'une architecture hébergée sur Google Cloud Plateform pour alimenter une application permettant d'évaluer de sa facture électrique
+- **Description** : Mise en place d'une architecture hébergée sur Google Cloud Plateform pour alimenter un applicatif d'évaluation de sa facture électrique
 
 - **Technologies** : Python (numpy, pandas, pytest, requests), BigQuery, Flask, Airflow, Google Compute Engine
 
