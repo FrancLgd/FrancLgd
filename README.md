@@ -7,20 +7,27 @@ Data Scientist avec 4 années d'expériences dans ce domaine, je suis petit à p
 
 ### [API pour la consommation électrique des foyers](https://github.com/FrancLgd/PUBLIC-Projet-Data-Engineering-Tarification-Electrique)
 
-<img src="./images/diagramme_architecture.png" alt="Capture d'Écran du Projet 1" style="width: 900px; height: 170px;"/>
+<img src="./images/diagramme_architecture.png" alt="Capture d'Écran du Projet 1" style="width: 750px; height: 150px;"/>
 
 - **Description** : Mise en place d'une architecture hébergée sur Google Cloud Plateform pour alimenter un applicatif d'évaluation de sa facture électrique
 
 - **Technologies** : Python (numpy, pandas, pytest, requests), BigQuery, Flask, Airflow, Google Compute Engine
 
-### [Agrégations sur les transactions enregistrées par une banque](https://github.com/FrancLgd/PUBLIC-Projet-Data-Engineering-Tarification-Electrique)
+### [Agrégations sur les transactions enregistrées par une banque](https://github.com/FrancLgd/PUBLIC-Data-Engineering-Agregation-transactions-Spark)
 
-<img src="./images/transactions.jpg" alt="Capture d'Écran du Projet 2" style="width: 900px; height: 170px;"/>
+<img src="./images/transactions.jpg" alt="Capture d'Écran du Projet 2" style="width: 750px; height: 150px;"/>
 
 - **Description** : Développement d'un job PySpark paramétré pour l'agrégation de données de transactions bancaires
 
 - **Technologies** : HDFS, PySpark, Dataproc, Google Cloud SDK
 
+### [Détection des anomalies de flux financiers avec Apache Kafka](https://github.com/FrancLgd/PUBLIC-Projet-Detection-anomalie-Kafka)
+
+<img src="./images/trading.jpg" alt="Capture d'Écran du Projet 3" style="width: 750px; height: 150px;"/>
+
+- **Description** : Mise en place d'un consumer Kafka pour l'analyse temps réel de transactions financières et la détection de fraudes
+
+- **Technologies** : Python (scikit-learn, seaborn, pickle, venv), Kafka, Google Cloud Functions 
 
 ## Compétences
 
