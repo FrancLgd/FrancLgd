@@ -1,17 +1,26 @@
 ## Bonjour 👋
 
-Data Scientist avec 4 années d'expériences dans ce domaine, je suis petit à petit monté en compétences sur les problématiques de Data Engineering, grâce à de l'auto-apprentissage, à [Blent.ai](https://blent.ai/formation/data-engineer), mais surtout grâce à une envie constante d'apprendre et de m'améliorer 😁
+Data Scientist avec 4 années d'expériences dans ce domaine, je suis petit à petit monté en compétences sur les problématiques de Data Engineering au fil de mes missions professionnelles, en réalisant une formation dédiée chez [Blent.ai](https://blent.ai/formation/data-engineer), mais surtout motivé par une constante envie d'apprendre et de mettre oeuvre les meilleures pratiques 😁
 
-## Mes projets 🔨
+## Mes principaux projets 🔨
 
 
 ### [API pour la consommation électrique des foyers](https://github.com/FrancLgd/PUBLIC-Projet-Data-Engineering-Tarification-Electrique)
 
-<img src="./images/diagramme_architecture.png" alt="Capture d'Écran du Projet 2" style="width: 80%; height: auto;"/>
+<img src="./images/diagramme_architecture.png" alt="Capture d'Écran du Projet 1" style="width: 900px; height: 170px;"/>
 
 - **Description** : Mise en place d'une architecture hébergée sur Google Cloud Plateform pour alimenter un applicatif d'évaluation de sa facture électrique
 
 - **Technologies** : Python (numpy, pandas, pytest, requests), BigQuery, Flask, Airflow, Google Compute Engine
+
+### [Agrégations sur les transactions enregistrées par une banque](https://github.com/FrancLgd/PUBLIC-Projet-Data-Engineering-Tarification-Electrique)
+
+<img src="./images/transactions.jpg" alt="Capture d'Écran du Projet 2" style="width: 900px; height: 170px;"/>
+
+- **Description** : Développement d'un job PySpark paramétré pour l'agrégation de données de transactions bancaires
+
+- **Technologies** : HDFS, PySpark, Dataproc, Google Cloud SDK
+
 
 ## Compétences
 
