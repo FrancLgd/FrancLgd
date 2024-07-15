@@ -3,6 +3,10 @@
 Data Scientist de formation avec 4 années d'expériences dans ce domaine, je suis petit à petit monté en compétences sur les problématiques de Data Engineering au fil de mes missions professionnelles, en réalisant une formation dédiée chez [Blent.ai](https://blent.ai/formation/data-engineer), mais surtout motivé par une constante envie de comprendre et de mettre en oeuvre les meilleures pratiques 😁
 
 Plus d'informations sur [mon CV](./CV_Francois_Legland.pdf) 👈
+<p align="center">
+<a href="www.linkedin.com/in/françois-legland-372570153"><img src="https://img.shields.io/badge/-Francois Legland-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:l.francois@outlook.fr"><img src="https://img.shields.io/badge/l.francois@outlook.fr-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+</p>
 
 ## Ma stack technique ⚡
 
@@ -75,7 +79,7 @@ Plus d'informations sur [mon CV](./CV_Francois_Legland.pdf) 👈
 
 - **Technologies utilisées** : MongoDB, Airflow, Python, PostgreSQL
   
-#### [👉 Plus de projets encore ici](https://github.com/FrancLgd?tab=repositories)
+#### [👉 ... et plus de projets encore ici](https://github.com/FrancLgd?tab=repositories)
 
-## Mes contacts
+## Mes lectures
 
