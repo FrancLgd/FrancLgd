@@ -1,6 +1,6 @@
 # Bonjour 👋
 
-Data Scientist de formation avec 4 années d'expériences dans ce domaine, je suis petit à petit monté en compétences sur les problématiques de Data Engineering au fil de mes missions professionnelles, en réalisant une formation dédiée chez [Blent.ai](https://blent.ai/formation/data-engineer), mais surtout motivé par une constante envie de comprendre et de mettre oeuvre les meilleures pratiques 😁
+Data Scientist de formation avec 4 années d'expériences dans ce domaine, je suis petit à petit monté en compétences sur les problématiques de Data Engineering au fil de mes missions professionnelles, en réalisant une formation dédiée chez [Blent.ai](https://blent.ai/formation/data-engineer), mais surtout motivé par une constante envie de comprendre et de mettre en oeuvre les meilleures pratiques 😁
 
 Plus d'informations sur [mon CV](./CV_Francois_Legland.pdf) 👈
 
