@@ -4,7 +4,7 @@ Data Scientist de formation avec 4 années d'expériences dans ce domaine, je su
 
 Plus d'informations sur [mon CV](./CV_Francois_Legland.pdf) 👈
 <p align="center">
-<a href="www.linkedin.com/in/françois-legland-372570153"><img src="https://img.shields.io/badge/-Francois Legland-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/françois-legland-372570153"><img src="https://img.shields.io/badge/-Francois%20Legland-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:l.francois@outlook.fr"><img src="https://img.shields.io/badge/l.francois@outlook.fr-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 </p>
 
