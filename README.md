@@ -1,9 +1,68 @@
-## Bonjour 👋
+# Bonjour 👋
 
-Data Scientist avec 4 années d'expériences dans ce domaine, je suis petit à petit monté en compétences sur les problématiques de Data Engineering au fil de mes missions professionnelles, en réalisant une formation dédiée chez [Blent.ai](https://blent.ai/formation/data-engineer), mais surtout motivé par une constante envie d'apprendre et de mettre oeuvre les meilleures pratiques 😁
+Data Scientist de formation avec 4 années d'expériences dans ce domaine, je suis petit à petit monté en compétences sur les problématiques de Data Engineering au fil de mes missions professionnelles, en réalisant une formation dédiée chez [Blent.ai](https://blent.ai/formation/data-engineer), mais surtout motivé par une constante envie d'apprendre et de mettre oeuvre les meilleures pratiques 😁
 
-## Mes principaux projets 🔨
+## Ma stack technique ⚡
 
+#### Langages
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg
+" width="60" height="60"/>
+
+#### Machine Learning, Dataviz, Dashboards
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg
+" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg
+" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg
+" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg
+" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg
+" width="60" height="60"/>
+<img src="./images/Shiny_hex_logo.svg" width="60" height="60"/>
+
+#### Base de données relationelles, NoSQL, Big Data, Data Streaming
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg
+" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg
+" width="60" height="60"/>
+<img src="./images/google_bigquery-ar21.svg
+" width="80" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg
+" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg
+" width="60" height="60"/>
+
+#### Autres technos
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg
+" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg
+" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg
+" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg
+" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg
+" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg
+" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg
+" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg
+" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg
+" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="60" height="60"/>
+
+## Mes projets 🔨
 
 ### [API pour la consommation électrique des foyers](https://github.com/FrancLgd/PUBLIC-Projet-Data-Engineering-Tarification-Electrique)
 
@@ -29,25 +88,15 @@ Data Scientist avec 4 années d'expériences dans ce domaine, je suis petit à p
 
 - **Technologies** : Python (scikit-learn, seaborn, pickle, venv), Kafka, Google Cloud Functions 
 
-## Compétences
+### [Mise en place d'un pipeline ETL depuis une base MongoDB](https://github.com/FrancLgd/PUBLIC-Projet-Data-Engineering-Pipeline-MongoDB)
 
-![Skill 1 Badge](https://img.shields.io/badge/-Skill%201-blue)
-![Skill 2 Badge](https://img.shields.io/badge/-Skill%202-green)
-![Skill 3 Badge](https://img.shields.io/badge/-Skill%203-red)
+<img src="./images/videogames.jpg" alt="Capture d'Écran du Projet 4" style="width: 750px; height: 150px;"/>
 
+- **Description** : Construction d'un pipeline ETL pour l'alimentation quotidienne d'un Data Warehouse depuis une base NoSQL
 
+- **Technologies** : MongoDB, Airflow, Python, PostgreSQL
+  
+### [👉 Et plus encore ici](https://github.com/FrancLgd?tab=repositories)
 
-<!--
-**FrancLgd/FrancLgd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mes contacts
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
