@@ -43,39 +43,39 @@ Plus d'informations sur [mon CV](./CV_Francois_Legland.pdf) 👈
 
 ## Mes projets 🔨
 
-### [API pour la consommation électrique des foyers](https://github.com/FrancLgd/PUBLIC-Projet-Data-Engineering-Tarification-Electrique)
+#### [API pour la consommation électrique des foyers](https://github.com/FrancLgd/PUBLIC-Projet-Data-Engineering-Tarification-Electrique)
 
-<img src="./images/diagramme_architecture.png" alt="Capture d'Écran du Projet 1" style="width: 750px; height: 150px;"/>
+<img src="./images/diagramme_architecture.png" alt="Capture d'Écran du Projet 1" style="width: 550px; height: 100px;"/>
 
-- **Description** : Mise en place d'une architecture hébergée sur Google Cloud Plateform pour alimenter un applicatif d'évaluation de sa facture électrique
+- **Le projet en bref** : Mise en place d'une architecture hébergée sur Google Cloud Plateform pour alimenter un applicatif d'évaluation de sa facture électrique
 
-- **Technologies** : Python (numpy, pandas, pytest, requests), BigQuery, Flask, Airflow, Google Compute Engine
+- **Technologies utilisées** : Python (numpy, pandas, pytest, requests), BigQuery, Flask, Airflow, Google Compute Engine, Google Cloud SDK
 
-### [Agrégations sur les transactions enregistrées par une banque](https://github.com/FrancLgd/PUBLIC-Data-Engineering-Agregation-transactions-Spark)
+#### [Agrégations sur les transactions enregistrées par une banque](https://github.com/FrancLgd/PUBLIC-Data-Engineering-Agregation-transactions-Spark)
 
-<img src="./images/transactions.jpg" alt="Capture d'Écran du Projet 2" style="width: 750px; height: 150px;"/>
+<img src="./images/transactions.jpg" alt="Capture d'Écran du Projet 2" style="width: 550px; height: 100px;"/>
 
-- **Description** : Développement d'un job PySpark paramétré pour l'agrégation de données de transactions bancaires
+- **Le projet en bref** : Développement d'un job PySpark paramétré pour l'agrégation de données de transactions bancaires
 
-- **Technologies** : HDFS, PySpark, Dataproc, Google Cloud SDK
+- **Technologies utilisées** : HDFS, PySpark, Dataproc, Google Cloud SDK
 
-### [Détection des anomalies de flux financiers avec Apache Kafka](https://github.com/FrancLgd/PUBLIC-Projet-Detection-anomalie-Kafka)
+#### [Détection des anomalies de flux financiers avec Apache Kafka](https://github.com/FrancLgd/PUBLIC-Projet-Detection-anomalie-Kafka)
 
-<img src="./images/trading.jpg" alt="Capture d'Écran du Projet 3" style="width: 750px; height: 150px;"/>
+<img src="./images/trading.jpg" alt="Capture d'Écran du Projet 3" style="width: 550px; height: 100px;"/>
 
-- **Description** : Mise en place d'un consumer Kafka pour l'analyse temps réel de transactions financières et la détection de fraudes
+- **Le projet en bref** : Mise en place d'un consumer Kafka pour l'analyse temps réel de transactions financières et la détection de fraudes
 
-- **Technologies** : Python (scikit-learn, seaborn, pickle, venv), Kafka, Google Cloud Functions 
+- **Technologies utilisées** : Python (scikit-learn, seaborn, pickle, venv), Kafka, Google Cloud Functions, Google Cloud SDK
 
-### [Mise en place d'un pipeline ETL depuis une base MongoDB](https://github.com/FrancLgd/PUBLIC-Projet-Data-Engineering-Pipeline-MongoDB)
+#### [Mise en place d'un pipeline ETL depuis une base MongoDB](https://github.com/FrancLgd/PUBLIC-Projet-Data-Engineering-Pipeline-MongoDB)
 
-<img src="./images/videogames.jpg" alt="Capture d'Écran du Projet 4" style="width: 750px; height: 150px;"/>
+<img src="./images/videogames.jpg" alt="Capture d'Écran du Projet 4" style="width: 550px; height: 100px;"/>
 
-- **Description** : Construction d'un pipeline ETL pour l'alimentation quotidienne d'un Data Warehouse depuis une base NoSQL
+- **Le projet en bref** : Construction d'un pipeline ETL pour l'alimentation quotidienne d'un Data Warehouse depuis une base NoSQL
 
-- **Technologies** : MongoDB, Airflow, Python, PostgreSQL
+- **Technologies utilisées** : MongoDB, Airflow, Python, PostgreSQL
   
-### [👉 Et plus encore ici](https://github.com/FrancLgd?tab=repositories)
+#### [👉 Plus de projets encore ici](https://github.com/FrancLgd?tab=repositories)
 
 ## Mes contacts
 
