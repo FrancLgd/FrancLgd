@@ -17,13 +17,18 @@ Plus d'informations sur [mon CV](./CV_Francois_Legland.pdf) 👈
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 
-#### Machine Learning, Dataviz
+#### Manipulation de données, Dataviz, Machine Learning 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="40" height="40"/>
+<img src="./images/xarray-logo-square.png" width="40" height="40"/>
+<img src="./images/geopandas_logo_green.png" width="80" height="30"/>
+<img src="./images/rasterio_logo.png" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" width="40" height="40"/>
 <img src="./images/Shiny_hex_logo.svg" width="40" height="40"/>
+<img src="./images/Leaflet_logo.svg" width="80" height="40"/>
+<img src="./images/QGIS_logo.svg" width="40" height="40"/>
 
 #### Base de données relationelles, NoSQL, Big Data, Data Streaming
 
@@ -81,5 +86,6 @@ Plus d'informations sur [mon CV](./CV_Francois_Legland.pdf) 👈
   
 #### [👉 ... et plus de projets encore ici](https://github.com/FrancLgd?tab=repositories)
 
-## Mes lectures
+## Mes lectures récentes 📖
 
+* [Reis, J., Housley, M. (2022). Fundamentals of Data Engineering : Plan and Build Robust Data Systems. O'Reilly.](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
