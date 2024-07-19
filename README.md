@@ -85,6 +85,6 @@ Plus d'informations sur [mon CV](./CV_Francois_Legland.pdf) 👈
   
 #### [👉 ... et plus de projets encore ici](https://github.com/FrancLgd?tab=repositories)
 
-## Mes lectures récentes 📖
+## Mes lectures en cours/récentes 📖
 
 * [Reis, J., Housley, M. (2022). Fundamentals of Data Engineering : Plan and Build Robust Data Systems. O'Reilly.](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
