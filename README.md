@@ -57,7 +57,7 @@ Plus d'informations sur [mon CV](./CV_Francois_Legland.pdf) 👈
 
 - **Le projet en bref** : Mise en place d'une architecture hébergée sur Google Cloud Plateform pour alimenter un applicatif d'évaluation de sa facture électrique
 
-- **Technologies utilisées** : Python (numpy, pandas, pytest, requests), BigQuery, Flask, Airflow, Google Compute Engine, Google Cloud SDK
+- **Solutions utilisées** : Python (numpy, pandas, pytest, requests), BigQuery, Flask, Airflow, Google Compute Engine, Google Cloud SDK
 
 #### [Agrégations sur les transactions enregistrées par une banque](https://github.com/FrancLgd/PUBLIC-Data-Engineering-Agregation-transactions-Spark)
 
@@ -65,7 +65,7 @@ Plus d'informations sur [mon CV](./CV_Francois_Legland.pdf) 👈
 
 - **Le projet en bref** : Développement d'un job PySpark paramétré pour l'agrégation de données de transactions bancaires
 
-- **Technologies utilisées** : HDFS, PySpark, Dataproc, Google Cloud SDK
+- **Solutions utilisées** : HDFS, PySpark, Dataproc, Google Cloud SDK
 
 #### [Détection des anomalies de flux financiers avec Apache Kafka](https://github.com/FrancLgd/PUBLIC-Projet-Detection-anomalie-Kafka)
 
@@ -73,7 +73,7 @@ Plus d'informations sur [mon CV](./CV_Francois_Legland.pdf) 👈
 
 - **Le projet en bref** : Mise en place d'un consumer Kafka pour l'analyse temps réel de transactions financières et la détection de fraudes
 
-- **Technologies utilisées** : Python (scikit-learn, seaborn, pickle, venv), Kafka, Google Cloud Functions, Google Cloud SDK
+- **Solutions utilisées** : Python (scikit-learn, seaborn, pickle, venv), Kafka, Google Cloud Functions, Google Cloud SDK
 
 #### [Mise en place d'un pipeline ETL depuis une base MongoDB](https://github.com/FrancLgd/PUBLIC-Projet-Data-Engineering-Pipeline-MongoDB)
 
@@ -81,10 +81,14 @@ Plus d'informations sur [mon CV](./CV_Francois_Legland.pdf) 👈
 
 - **Le projet en bref** : Construction d'un pipeline ETL pour l'alimentation quotidienne d'un Data Warehouse depuis une base NoSQL
 
-- **Technologies utilisées** : MongoDB, Airflow, Python, PostgreSQL
+- **Solutions utilisées** : MongoDB, Airflow, Python, PostgreSQL
   
 #### [👉 ... et plus de projets encore ici](https://github.com/FrancLgd?tab=repositories)
 
-## Mes lectures en cours/récentes 📖
+## Mes lectures récentes 📖
 
 * [Reis, J., Housley, M. (2022). Fundamentals of Data Engineering : Plan and Build Robust Data Systems. O'Reilly.](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
+* [Kitching, S. (2018). Introduction to Datawarehousing, https://moi.vonos.net.](https://moi.vonos.net/programming/dwh-intro/)
+* [Kitchingn S. (2018). Google Databases Overview. https://moi.vonos.net.](https://moi.vonos.net/cloud/google-databases-overview/)
+* [Levy, R., (2021). Building a data lakehouse on Google Cloud Platform. Google Cloud white paper.](https://services.google.com/fh/files/misc/building-a-data-lakehouse.pdf)
+* [Kitchingn S. (2018). Google BigQuery Overview. https://moi.vonos.net.](https://moi.vonos.net/cloud/google-bigquery-overview/)
